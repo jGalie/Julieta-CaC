@@ -1,0 +1,78 @@
+.header { 
+  background-color: #142e3c; 
+  display: flex;
+  width: 97%;
+  padding: 20px;
+  color: #ffffff; 
+  font-family: 'Libre Baskerville', serif;
+}
+
+.header img{
+margin-right: 30%
+}
+
+/*estilo para el body*/
+body {
+    background-color: #e7e6e3; 
+}
+/*estilo para el fundo de la tabla y los botones*/
+.fondos {
+    background-color: #e1edee;
+    width: 53%;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  }
+
+table {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0 auto;
+}
+
+/*colores distintivos para cada feriado*/
+.inamobible {
+    background-color: rgb(142, 81, 166); 
+    color: #000000;
+}
+
+.noLabor {
+    background-color: rgb(152, 147, 152); 
+    color: #000000;
+}
+
+.trasladable {
+    background-color: rgb(201, 171, 204); 
+    color: #000000;
+}
+
+/*estilos para cada boton correspondiente a cada feriado*/
+.boton {
+    background-color:rgb(142, 81, 166); 
+    color: #ffffff;
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    text-transform: uppercase;
+    
+  }
+
+  .boton2 {
+    background-color:rgb(152, 147, 152); 
+    color: #ffffff; 
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    text-transform: uppercase;
+    
+  }
+
+  .boton3 {
+    background-color:rgb(201, 171, 204); 
+    color: #ffffff; 
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    text-transform: uppercase;
+    
+  }
+
